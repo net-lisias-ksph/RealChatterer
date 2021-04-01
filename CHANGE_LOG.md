@@ -1,5 +1,16 @@
 # Real Chatterer :: Change Log
 
+* 2019-1117: 0.4 (TheRealWiwaxia) for KSP 1.7.3
+	+ Requires chatterer, check forum page for install instructions.
+	+ Compatible with Chatterer 0.9.96 and 0.9.97, newer versions have not been tested.
+	+ Some Soyuz clips shuffled around.
+	+ Some beeps removed including Cassini Radio Emissions and the Insight Seismometer.
+	+ Added:
+	+ Relay 1 and SECOR 3 beeps.
+	+ New chatter set "Real Shuttle"
+	+ Real Shuttle set features 111 new clips, including 29 female clips (more to come soon).
+	+ Soyuz and Vostok audio standardized, all clips should play in both ears now.
+	+ Audio cleanup of many Apollo and Mercury clips.
 * 2019-0414: 0.3 (TheRealWiwaxia) for KSP 1.3.1
 	+ Lots of new Mercury clips added, few new "beeps" too.
 	+ Added:
