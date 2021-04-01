@@ -1,5 +1,17 @@
 # Real Chatterer :: Change Log
 
+* 2020-0222: 0.5 (TheRealWiwaxia) for KSP 1.7.3
+	+ Redid mercury sets, and added some experimental clips to the new gemini chatter sets.
+	+ There are no longer any spaces between set names (E.g. "Real Apollo" is now "realapollo"), this breaks audio sets from older versions of real chatterer.
+	+ Added:
+	+ New chatter set "realgemini" with 66 new clips. Realgemini has some experimental clips called "capconvo" and "convo." Capconvo features conversations between flight controllers and gives insight to what's going on backstage. Convos are conversations between capcom and the crew, all in one clip. Please leave feedback about these clips!
+	+ New chatter set "realgeminieva" with 12 new clips, couldn't get much more due to loss of signal, poor communication, and other issues during the Gemini EVAs.
+	+ New chatter set "realmercurysub" with 27 new clips. Featuring Gus Grissom during his suborbital Mercury-Redstone 4 flight. This set also includes some convos.
+	+ New chatter set "realmercuryalt" with 20 new clips. Featuring Alan Shepherd during his suborbital Mercury-Redstone 3 flight.
+	+ New chatter set "realmercuryorbit" with 50 new clips. Featuring John Glenn Jr. during his Mercury-Atlas 6 flight, the first American orbital mission.
+	+ New chatter set "realshuttleeva" with 5 new clips, this set is unfinished.
+	+ Chatter set "realmercury" removed.
+	+ Readme updated
 * 2019-1117: 0.4 (TheRealWiwaxia) for KSP 1.7.3
 	+ Requires chatterer, check forum page for install instructions.
 	+ Compatible with Chatterer 0.9.96 and 0.9.97, newer versions have not been tested.
